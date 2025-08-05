@@ -1,0 +1,5547 @@
+fileFormatVersion: 2
+guid: 925b5015ad0976046b2d1b802da7e905
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puff_smoke_01_0005.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55ad2bb2bc790aa0800000000000000
+      internalID: -6194282705385052835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0005.png
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 91
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a630418dde163d0f0800000000000000
+      internalID: -1093422610360564886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_blue.png
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 432
+        width: 10
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476bfb92d3734c170800000000000000
+      internalID: 8197737957554108020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_050020.png
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 990
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eeb0ee873b4008a0800000000000000
+      internalID: -6340985573345280288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0002.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dfe67804f693040800000000000000
+      internalID: 4627852415040683392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0009.png
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 64
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13159c5f7d2ff8580800000000000000
+      internalID: -8822566135640010447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0015.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 892
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17763277c891b30800000000000000
+      internalID: 4258589365978493379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0000.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f200a144d91240800000000000000
+      internalID: 4763071459243520710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0001.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078c5b45282d0f90800000000000000
+      internalID: -6985883306338515198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0011.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 464
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1beb02d39547fe070800000000000000
+      internalID: 8137850978308243121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0013.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 460
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8349d4f9adcb8f640800000000000000
+      internalID: 5114045024040752184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0024.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a309e63a434430800000000000000
+      internalID: 3765935313109886158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0012.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 464
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2407efe4852911260800000000000000
+      internalID: 7066590198301093954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0014.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 526
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a0704cc94564690800000000000000
+      internalID: -7618308687370188254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0020.png
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4250de746b04b24a0800000000000000
+      internalID: -6617124075855870684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0015.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 460
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cd7f24c433cd750800000000000000
+      internalID: 6330991578810145825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0016.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 794
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c04a209c0b7b930800000000000000
+      internalID: 4158987158279163006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0020.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd32b7d5286ea640800000000000000
+      internalID: 5093122740344470960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0011.png
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317b8365f87fd6670800000000000000
+      internalID: 8533749063935899411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0023.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a79c5db9507a56e0800000000000000
+      internalID: -1848041166350805083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0017.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc2a425c0cabb920800000000000000
+      internalID: 3007186345120115953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0021.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 130
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3f843323522b8a0800000000000000
+      internalID: -6290924831944150078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0012.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5786f367837edb0800000000000000
+      internalID: -4762776000399903291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0016.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 338
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ab4ca1ebb57acf0800000000000000
+      internalID: -241123182990017997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0018.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d54cff290054e620800000000000000
+      internalID: 2802452868521280977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0022.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 196
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2eacc7df0699ea0800000000000000
+      internalID: -5865550397836696927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0023.png
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 134
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45168617822e766d0800000000000000
+      internalID: -2997178363662540460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0007.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 662
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72df8ac44bb8d4840800000000000000
+      internalID: 5209973950434049319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0018.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 790
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e91ecdf54f1fddd0800000000000000
+      internalID: -2459212486049654302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0022.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79027301d635d8a0800000000000000
+      internalID: -6281053833964418694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0016.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 524
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560e9329f169184c0800000000000000
+      internalID: -4286980307938582427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0031.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 596
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b767945341370090800000000000000
+      internalID: -8068426042159175756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0000.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f9073d637fc62c0800000000000000
+      internalID: -4436899718019113111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0022.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 590
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f819fe9b58040c530800000000000000
+      internalID: 3873166622632939919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0014.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 790
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d14e4be3515c7290800000000000000
+      internalID: -7891343026188041775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0006.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 690
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793d0fe6235a42f30800000000000000
+      internalID: 4549943159579267991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0000.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 788
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc45e17e7c705060800000000000000
+      internalID: 6940183908296510668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0001.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 394
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5730df59d0a6a60800000000000000
+      internalID: 7667956253397841388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0027.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee570fefd589d90800000000000000
+      internalID: -7090814263757508973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0001.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 790
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0260009e91e5a60800000000000000
+      internalID: 7664592104349638877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0030.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178f8f8ce8f993910800000000000000
+      internalID: 1817659360226637937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0010.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 130
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00301bffc4a9d8420800000000000000
+      internalID: 2633931012579590912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0002.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 460
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6eb7add5ddb7460800000000000000
+      internalID: 7240624221095454439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0021.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da62013a3d327060800000000000000
+      internalID: 6949684495125736152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0027.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 366
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72150e368e7967d0800000000000000
+      internalID: -2924667367969189252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0003.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6625408d2f7bdaf0800000000000000
+      internalID: -370562710925662612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0024.png
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a111f96d395c10800000000000000
+      internalID: 2042731431214555638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0004.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 102
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc236c3f2c6b1de0800000000000000
+      internalID: -1361375512217047858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0003.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674ce5cb707693f0800000000000000
+      internalID: -894403799082580115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0013.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 728
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340cb77df6cc1d0d0800000000000000
+      internalID: -3399711462959366077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0009.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 728
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dafb6376b538990800000000000000
+      internalID: -7384958465099190996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0021.png
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66455a4156697b90800000000000000
+      internalID: -7243646026323245458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0020.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 790
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac4c529c091e0380800000000000000
+      internalID: -9003231063281218394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0009.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 196
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474bd74fe79a70e00800000000000000
+      internalID: 1010963004100818036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0011.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 928
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91aed8a3563b8920800000000000000
+      internalID: 2993546110261174687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0001.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 596
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a431cac56ff81c0800000000000000
+      internalID: -4499106624835466695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0015.png
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315ef123690b578f0800000000000000
+      internalID: -543334020895742701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0003.png
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a949a6aa69289b960800000000000000
+      internalID: 7618263828289721498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0013.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 464
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be12053a03bd32c00800000000000000
+      internalID: 874783754584859115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0006.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3997183f6fa7e1c10800000000000000
+      internalID: 2026192083429194131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0014.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 464
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94336ea628dcb2910800000000000000
+      internalID: 1813769234969670473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0003.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 588
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160fc87edcb77fd00800000000000000
+      internalID: 1006409166023880801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0015.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 592
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4d9f91a69da9e30800000000000000
+      internalID: 4511157026490537147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0016.png
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf9b3907407dd60800000000000000
+      internalID: 7914799751688223516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0022.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc927c80805ef8660800000000000000
+      internalID: 7390377336208042445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0021.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 88
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e1c9ca0b5dc87e0800000000000000
+      internalID: -1761798399421833577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0029.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 526
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0a451778666fb10800000000000000
+      internalID: 2014910615202865325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0001.png
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 194
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb37eb16e7b747e10800000000000000
+      internalID: 2194514701172241340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0007.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 790
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77793dece0c25bb80800000000000000
+      internalID: -8379743089541802121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0018.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f3df61a81ba8b0800000000000000
+      internalID: -5139987468068325299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0022.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 88
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989d9ae0a35a20b10800000000000000
+      internalID: 1946299657750174089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0006.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5d27d1e1f7bfe0800000000000000
+      internalID: -1173203225626714416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0007.png
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 326
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc201cc2ad0b460800000000000000
+      internalID: 7255538885445472117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0018.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 530
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a695b2ccf876eb0800000000000000
+      internalID: -4726651176838665616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0007.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 254
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6090133c649b58950800000000000000
+      internalID: 6450765754851723526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0000.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f306cd466dc7fe0800000000000000
+      internalID: -1189840472850284649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0008.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 758
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006090d344c89960800000000000000
+      internalID: 7609047365983428619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0017.png
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c98cb976dad7dc50800000000000000
+      internalID: 6690056386182416836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0000.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 186
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf653d514c636380800000000000000
+      internalID: -8979214204054179924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0004.png
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5549aba8fbd4330800000000000000
+      internalID: 3696821471697720795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0006.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 724
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0dc999cb690d5a0800000000000000
+      internalID: -6498528525520416533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0000.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 188
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894da35a9411a1f60800000000000000
+      internalID: 8005730295606858904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_050022.png
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca82df340ad0a50800000000000000
+      internalID: 6489018851981307057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0001.png
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6f4113e7c91d220800000000000000
+      internalID: 2508958533225346727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0010.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 262
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcff1c0661c85fb0800000000000000
+      internalID: -4658761170480530245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0007.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17dc9a020ba887b0800000000000000
+      internalID: -5221735742679754982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0002.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 656
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b871744a24f003f90800000000000000
+      internalID: -6976059043898517621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0019.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1257ae0f8e2389be0800000000000000
+      internalID: -1470369302280768223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0010.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 826
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76645d7d3e37b0b50800000000000000
+      internalID: 6560464704611108455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0002.png
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d45904b7578ad80800000000000000
+      internalID: -8239206346049368723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0006.png
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c957bc02d61f10c0800000000000000
+      internalID: -4602935202737071673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0017.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 592
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d265dfac685a750800000000000000
+      internalID: 6315602258848787804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0019.png
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e754cea6b48ea20800000000000000
+      internalID: 3091804066792439382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0013.png
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082fe0d6f89bee1a0800000000000000
+      internalID: -6778276363484859776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0026.png
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6794de1d9011960800000000000000
+      internalID: 7570843245820344004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0020.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 524
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b931b30b39d71f0800000000000000
+      internalID: -1045517153365419196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0009.png
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ab936870085610800000000000000
+      internalID: 1610037383852171437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0009.png
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab3e070d2f919c90800000000000000
+      internalID: -7164770516429030486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0014.png
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6658b2ad4a81cd0800000000000000
+      internalID: -2587136728984361251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0009.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 386
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e774c601a33185970800000000000000
+      internalID: 8743759816644380542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0021.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 856
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc61a8444a19f020800000000000000
+      internalID: 2375959158993284342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_050021.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd46dc10aa6e6b590800000000000000
+      internalID: -7658680498447883041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0021.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 832
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29397f45e30aaa490800000000000000
+      internalID: -7734193220481477742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0010.png
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8d0f5a3858416e0800000000000000
+      internalID: -1867721144980678487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0009.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32a164d0c8bfb7e0800000000000000
+      internalID: -1747474992060063169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0022.png
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 36
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd754729e34c2140800000000000000
+      internalID: 4696203180105891294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0003.png
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b0069022332f20800000000000000
+      internalID: 3396613659504456051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0005.png
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7eae84b0b85d6e0800000000000000
+      internalID: -1813390394362501209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0029.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 596
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba02e89644bc2110800000000000000
+      internalID: 1237562212925704895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0013.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad71bacf2dc9bc0800000000000000
+      internalID: -3774910404999259537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_orange.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 432
+        width: 10
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee032a33605e4d0800000000000000
+      internalID: -3106069549167874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0031.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 658
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2cdb841be7ae80800000000000000
+      internalID: -8167300925734768783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0018.png
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 22
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223e60024a37dce0800000000000000
+      internalID: -1380570705616293339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0007.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 64
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dcbdd6ef7284130800000000000000
+      internalID: 3551132279899933974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0003.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 526
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c40aa8cc15f6d10800000000000000
+      internalID: 2121003888455732349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0019.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 724
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9b8cb0442386a0800000000000000
+      internalID: -6448270381004645291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0004.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 622
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fb8aab052822700800000000000000
+      internalID: 514116590714273566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0004.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 592
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359f40866b433ce80800000000000000
+      internalID: -8159620141831358125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0004.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4fbd35643c0abd0800000000000000
+      internalID: -2620880276307577659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0023.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 262
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8f42d9ca4e7d2d0800000000000000
+      internalID: -3253880775729940233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0016.png
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae35e24ab35d571e0800000000000000
+      internalID: -2200618390766332950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0005.png
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6985557408931b920800000000000000
+      internalID: 3004245649548204182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_050023.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b76048c55b04f540800000000000000
+      internalID: 5040666345994217399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0023.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce946a88aaf8650800000000000000
+      internalID: 6237391512813563069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0015.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 240
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38cb6d4fb281e1b0800000000000000
+      internalID: -5629074301087135685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0006.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 662
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2c1ca2c6ef243d0800000000000000
+      internalID: -3223734642716589380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0008.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 856
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8050424179f9820800000000000000
+      internalID: 2927224395573561561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_purple.png
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 432
+        width: 10
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee4d7c4f561f0d0800000000000000
+      internalID: -3390816942434226437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0014.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 788
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c627ea5f3c19361f0800000000000000
+      internalID: -1052837617048063380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0001.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 254
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808311bd5b0422a0800000000000000
+      internalID: -6763268243372932989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0018.png
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c887547a3ce42d0800000000000000
+      internalID: -3292479154368771014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0002.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 252
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625d204dd72ed7c20800000000000000
+      internalID: 3205967539813405990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0006.png
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e316d74e55405820800000000000000
+      internalID: 2904898030888424425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0028.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 596
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd9891c9a6085c30800000000000000
+      internalID: 4348232766393458102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0002.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b769ed780468cc0800000000000000
+      internalID: -3709206290793858258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0011.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 490
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a5c05c14abcb530800000000000000
+      internalID: 3872174571273345570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0003.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 36
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615325903771c4520800000000000000
+      internalID: 2687548860478403862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0028.png
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa1433b84a3bdfa0800000000000000
+      internalID: -5774958013253936398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0012.png
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 854
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d44f15be8b0c20800000000000000
+      internalID: 3173787270977476510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0017.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 724
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3bd5d3ed5172200800000000000000
+      internalID: 155116756424045505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0000.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116e0419919f54a0800000000000000
+      internalID: -6602398442049347307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0020.png
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c7e289cdeb97b0800000000000000
+      internalID: -5216314293638150179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0023.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60b59a9793f3b60800000000000000
+      internalID: 7727958680286201597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0017.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 794
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f9f55a52ad88a0800000000000000
+      internalID: -6301201794748255745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0004.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03e6f6038d9bd70800000000000000
+      internalID: 9059509827971985586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0021.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 590
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dfd39ece73aac20800000000000000
+      internalID: 3218446374374604061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0020.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 530
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19195456b3588eb0800000000000000
+      internalID: -4717428567106316004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0011.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 196
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8346815e6408a80800000000000000
+      internalID: -8466689349685856012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0013.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 724
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0a61b280b2f1120800000000000000
+      internalID: 2386673641612288226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0022.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 656
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5090618439803620800000000000000
+      internalID: 2751850230925267034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0020.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 730
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19a322cd92e6af20800000000000000
+      internalID: 3433680933111441693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0030.png
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 922
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b72a5b9f9700a980800000000000000
+      internalID: -8529809312152148046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0012.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 262
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df185f43703b52b40800000000000000
+      internalID: 5414930970517537277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0023.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40fe22ee9ccbd320800000000000000
+      internalID: 2583883793998737483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0012.png
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68abaf33563edea0800000000000000
+      internalID: -5846175535101925266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0026.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556aded091e5df440800000000000000
+      internalID: 4971233025387767381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0003.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 662
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398a09e4b61a50950800000000000000
+      internalID: 6414710726510815379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0008.png
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a87a9ccebfc400800000000000000
+      internalID: 346705482305020626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0003.png
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db696bda55b75c580800000000000000
+      internalID: -8807497888336275779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0004.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 662
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35162d34ee76e8cf0800000000000000
+      internalID: -248146656421060269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0019.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 856
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e49df75a94dc400800000000000000
+      internalID: 346013721540775424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0004.png
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d481f0ec5a269b0800000000000000
+      internalID: -5088322324540142321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0001.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 628
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e973186dcd7f8b2e0800000000000000
+      internalID: -2109663897559418978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0005.png
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 658
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85138dc8dc801ee10800000000000000
+      internalID: 2225069369822032216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0015.png
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec9fbb35e93c32b0800000000000000
+      internalID: -5603540179643032348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0001.png
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fa91562caf8080800000000000000
+      internalID: -9182931834607308644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0000.png
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353eee79ac2d00c10800000000000000
+      internalID: 2017844400636224339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0012.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 658
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f51c6faa11cff740800000000000000
+      internalID: 5188077616110507508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0008.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 722
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f72b2503dd33ea0800000000000000
+      internalID: -5894124287682248822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0006.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 266
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420a84a313ce2c10800000000000000
+      internalID: 2030774971122975302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0008.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 130
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef1b5878726a0970800000000000000
+      internalID: 8721891897911222254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0006.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 188
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b503e64ee1785c90800000000000000
+      internalID: -7180864337636817484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0015.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 794
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3405c7bea41354b0800000000000000
+      internalID: -5452991983175531459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0024.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 168
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271a5ac6d2ffedb40800000000000000
+      internalID: 5467087568235766130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0002.png
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dee25136a301710800000000000000
+      internalID: 1661892459731283237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0016.png
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 30
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5a33d249e98bda0800000000000000
+      internalID: -5928814550182550091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0010.png
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 728
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d435c64498b623590800000000000000
+      internalID: -7695970575920114867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0007.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 300
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1f64ebe7a84a340800000000000000
+      internalID: 4874172973684552103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0023.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 102
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ed751147ca4260800000000000000
+      internalID: 7082692446340899102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0017.png
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 530
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b6c215e3981f4d0800000000000000
+      internalID: -3102547767538717812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0025.png
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3284205a0b111e820800000000000000
+      internalID: 2945655081657321507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0007.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 724
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efe6ddddbe5cd180800000000000000
+      internalID: -9089285778376822810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0028.png
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af3687247e25b10800000000000000
+      internalID: 1968890259788003993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0016.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 526
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d3f53ab6a3ab710800000000000000
+      internalID: 1709743242517363983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0010.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 458
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cc408984984ee60800000000000000
+      internalID: 7990662583743204356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0019.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 632
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5a2aebb39198920800000000000000
+      internalID: 2992951171756500448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0021.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 530
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b50060ab4e9aae80800000000000000
+      internalID: -8166540926632589895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0002.png
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 418
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6344e91c123813030800000000000000
+      internalID: 3472700968684897334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0025.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adfdef5206752d60800000000000000
+      internalID: 7864822076843883943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0000.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 486
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ede7bbc2e296810800000000000000
+      internalID: 1758987899123981961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0019.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 794
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e317b35971f1577e0800000000000000
+      internalID: -1768473092524641986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0031.png
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 956
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07122bafa026f7390800000000000000
+      internalID: -7818422628796718736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0002.png
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fdd56740018f60800000000000000
+      internalID: 8034703516857398930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0007.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 452
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0428ed4154a9386d0800000000000000
+      internalID: -2989376106150329792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0008.png
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 366
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777f1e22cefba98a0800000000000000
+      internalID: -6297510108005795977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0017.png
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 398
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56b1ee13098c970800000000000000
+      internalID: 8775422418053981671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0003.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0dd4400fe07f7a0800000000000000
+      internalID: -6343585126100905824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0003.png
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 386
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faad0b18be3a22bf0800000000000000
+      internalID: -350537589092984145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0002.png
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 432
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd10a1cd92a3a2c0800000000000000
+      internalID: -4421511610705633865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0011.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 592
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296478d267b0d090800000000000000
+      internalID: -8011702101925926610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0004.png
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 260
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ee7394dc781a980800000000000000
+      internalID: -8529386903496561068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0019.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 530
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c110d40831df8060800000000000000
+      internalID: 6958009987839824326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0005.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 662
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72711fbe287679cd0800000000000000
+      internalID: -2551456851880241369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0004.png
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 22
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd6e692514f3f8d0800000000000000
+      internalID: -2813636970449834532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0013.png
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 888
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c7e1ac854fe7e0800000000000000
+      internalID: -1734090861200292225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0005.png
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 860
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398272cab485ca510800000000000000
+      internalID: 1561720252824758419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0000.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 530
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d80906466b42f20800000000000000
+      internalID: 3397040561177267536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0009.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 792
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f54312ccd67eb0800000000000000
+      internalID: -4722344433146269015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0012.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 394
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc8fd6cda71e72f0800000000000000
+      internalID: -973314434332128016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0014.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 858
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc9bff2225296120800000000000000
+      internalID: 2407496304570375414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0003.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23a498bde5667b0800000000000000
+      internalID: -5231389620150062368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0002.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 726
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b557d85f48a8dc0800000000000000
+      internalID: -3635947558973121787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0023.png
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 722
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9275073738931e10800000000000000
+      internalID: 2167243208609067677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0008.png
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a71399f0e141da0800000000000000
+      internalID: -5975117753270306148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0018.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 794
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2313b792a1ff6e760800000000000000
+      internalID: 7486951918380200242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0013.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 328
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d9ee79b08357590800000000000000
+      internalID: -7677168367338349188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0008.png
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 320
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f750bdeb8aafcb80800000000000000
+      internalID: -8372285664293529611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0010.png
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 526
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5788616e2bfa24300800000000000000
+      internalID: 234943313475962997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0029.png
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f06573f7ce7b20800000000000000
+      internalID: 3134162239156712724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0014.png
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 394
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06164f0d6ba7ca070800000000000000
+      internalID: 8118999153850474848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_02_0015.png
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 464
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e9cf02f992b7840800000000000000
+      internalID: 5222813956296187399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0025.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 234
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579c3361021787ec0800000000000000
+      internalID: -3568978322065733259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0010.png
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c17c52a9632c0390800000000000000
+      internalID: -7850861113811111485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0014.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 142
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cf9891dcf610a70800000000000000
+      internalID: 8791430874291371094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0011.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 728
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3dbc8daedfa4340800000000000000
+      internalID: 4848967133919171559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0020.png
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 64
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fae858f2ca5d140800000000000000
+      internalID: 4743887102608846699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0026.png
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 300
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04ac9411aea38eb0800000000000000
+      internalID: -4718735977695370227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0017.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 436
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4c7e11807a75bd0800000000000000
+      internalID: -2641459003327527691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_03_0012.png
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 728
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0002b688e9279c4a0800000000000000
+      internalID: -6572596155951407104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0022.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af4f59b5a865e20800000000000000
+      internalID: 3339008299704318515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0001.png
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0097e593a4025fc0800000000000000
+      internalID: -3507736059127033845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puff_smoke_01_0030.png
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 596
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f20a734fb37040800000000000000
+      internalID: 4644265937279842289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0018.png
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 658
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f119ec4709db51a0800000000000000
+      internalID: -6819618585344142864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0016.png
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 658
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b21e6702c112d70800000000000000
+      internalID: 9016518854731443036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0004.png
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 446
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971ba1c8aa6f0ac0800000000000000
+      internalID: -3886770680361183342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0019.png
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 88
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a543d8a1fda091c20800000000000000
+      internalID: 3177582965426041946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0001.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 520
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a3cb1ea05ef3e50800000000000000
+      internalID: 6791398597997640312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_06_0000.png
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 328
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465f7175b86b4e650800000000000000
+      internalID: 6261330091529729380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0002.png
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 554
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c671728998ab4d0f0800000000000000
+      internalID: -1093043709418203284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0001.png
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44cbea5da6197e40800000000000000
+      internalID: 5654575740950922318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_04_0011.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 328
+        width: 64
+        height: 64
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24871fe453999b350800000000000000
+      internalID: 6033021630076254274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0005.png
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 656
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ace05a1e048aca00800000000000000
+      internalID: 777579081780751522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_07_0027.png
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 68
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcaf12f7d631aab0800000000000000
+      internalID: -4998653810296509223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_11_0008.png
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 926
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075dbc81f131dc5c0800000000000000
+      internalID: -4193674653731138192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hit_0004.png
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7369ff60f6df95de0800000000000000
+      internalID: -1343764360492771785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: expl_01_0005.png
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 318
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613c5ee56d457a530800000000000000
+      internalID: 3866152084812710678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bullet_2_blue.png: 8197737957554108020
+      bullet_2_orange.png: -3106069549167874448
+      bullet_2_purple.png: -3390816942434226437
+      bullet_blue0000.png: -6602398442049347307
+      bullet_blue0001.png: -3507736059127033845
+      bullet_blue0002.png: 1661892459731283237
+      bullet_blue0003.png: -370562710925662612
+      bullet_blue0004.png: -2620880276307577659
+      bullet_orange0000.png: 2017844400636224339
+      bullet_orange0001.png: -6985883306338515198
+      bullet_orange0002.png: -4421511610705633865
+      bullet_orange0003.png: -894403799082580115
+      bullet_orange0004.png: 9059509827971985586
+      bullet_purple0000.png: 4763071459243520710
+      bullet_purple0001.png: -9182931834607308644
+      bullet_purple0002.png: 8034703516857398930
+      bullet_purple0003.png: 3396613659504456051
+      bullet_purple0004.png: -3886770680361183342
+      expl_01_0000.png: -8979214204054179924
+      expl_01_0001.png: 2194514701172241340
+      expl_01_0002.png: 3205967539813405990
+      expl_01_0003.png: -6343585126100905824
+      expl_01_0004.png: -8529386903496561068
+      expl_01_0005.png: 3866152084812710678
+      expl_01_0006.png: 2030774971122975302
+      expl_01_0007.png: 7255538885445472117
+      expl_01_0008.png: -5975117753270306148
+      expl_01_0009.png: 1610037383852171437
+      expl_01_0010.png: -7850861113811111485
+      expl_01_0011.png: 8533749063935899411
+      expl_01_0012.png: -4762776000399903291
+      expl_01_0013.png: -6778276363484859776
+      expl_01_0014.png: -2587136728984361251
+      expl_01_0015.png: -543334020895742701
+      expl_01_0016.png: 7914799751688223516
+      expl_01_0017.png: 8775422418053981671
+      expl_01_0018.png: -1380570705616293339
+      expl_01_0019.png: 3177582965426041946
+      expl_01_0020.png: 5093122740344470960
+      expl_01_0021.png: -1761798399421833577
+      expl_01_0022.png: 1946299657750174089
+      expl_01_0023.png: 7727958680286201597
+      expl_02_0000.png: 8005730295606858904
+      expl_02_0001.png: -6763268243372932989
+      expl_02_0002.png: -3709206290793858258
+      expl_02_0003.png: -350537589092984145
+      expl_02_0004.png: -2813636970449834532
+      expl_02_0005.png: -1093422610360564886
+      expl_02_0006.png: -7180864337636817484
+      expl_02_0007.png: 6450765754851723526
+      expl_02_0008.png: -8372285664293529611
+      expl_02_0009.png: 8743759816644380542
+      expl_02_0010.png: 7990662583743204356
+      expl_02_0011.png: 8137850978308243121
+      expl_02_0012.png: 7066590198301093954
+      expl_02_0013.png: 874783754584859115
+      expl_02_0014.png: 1813769234969670473
+      expl_02_0015.png: 5222813956296187399
+      expl_02_0016.png: -4286980307938582427
+      expl_02_0017.png: -3102547767538717812
+      expl_02_0018.png: -4726651176838665616
+      expl_02_0019.png: 6958009987839824326
+      expl_02_0020.png: -4717428567106316004
+      expl_02_0021.png: -8166540926632589895
+      expl_02_0022.png: 3873166622632939919
+      expl_02_0023.png: -2997178363662540460
+      expl_03_0001.png: -4499106624835466695
+      expl_03_0002.png: -6976059043898517621
+      expl_03_0003.png: 6414710726510815379
+      expl_03_0004.png: -248146656421060269
+      expl_03_0005.png: -2551456851880241369
+      expl_03_0006.png: -3223734642716589380
+      expl_03_0007.png: 5209973950434049319
+      expl_03_0008.png: -5894124287682248822
+      expl_03_0009.png: -7384958465099190996
+      expl_03_0010.png: -7695970575920114867
+      expl_03_0011.png: 4848967133919171559
+      expl_03_0012.png: -6572596155951407104
+      expl_03_0013.png: -3399711462959366077
+      expl_03_0014.png: -1052837617048063380
+      expl_03_0015.png: -5452991983175531459
+      expl_03_0016.png: 4158987158279163006
+      expl_03_0017.png: -6301201794748255745
+      expl_03_0018.png: 7486951918380200242
+      expl_03_0019.png: -1768473092524641986
+      expl_03_0020.png: -1045517153365419196
+      expl_03_0021.png: 3218446374374604061
+      expl_03_0022.png: 2751850230925267034
+      expl_03_0023.png: 2167243208609067677
+      expl_04_0000.png: 6940183908296510668
+      expl_04_0001.png: 2508958533225346727
+      expl_04_0002.png: -8239206346049368723
+      expl_04_0003.png: -8807497888336275779
+      expl_04_0004.png: -5088322324540142321
+      expl_04_0005.png: 1561720252824758419
+      expl_04_0006.png: -4602935202737071673
+      expl_04_0007.png: 3551132279899933974
+      expl_04_0008.png: 8721891897911222254
+      expl_04_0009.png: 1010963004100818036
+      expl_04_0010.png: -4658761170480530245
+      expl_04_0011.png: 6033021630076254274
+      expl_04_0012.png: -973314434332128016
+      expl_04_0013.png: 5114045024040752184
+      expl_04_0014.png: -7618308687370188254
+      expl_04_0015.png: 4511157026490537147
+      expl_04_0016.png: 9016518854731443036
+      expl_04_0017.png: 155116756424045505
+      expl_04_0018.png: -2459212486049654302
+      expl_04_0019.png: 346013721540775424
+      expl_04_0020.png: 4743887102608846699
+      expl_04_0021.png: -6290924831944150078
+      expl_04_0022.png: -5865550397836696927
+      expl_04_0023.png: -3253880775729940233
+      expl_050020.png: -6340985573345280288
+      expl_050021.png: -7658680498447883041
+      expl_050022.png: 6489018851981307057
+      expl_050023.png: 5040666345994217399
+      expl_06_0000.png: 6261330091529729380
+      expl_06_0001.png: 7667956253397841388
+      expl_06_0002.png: 7240624221095454439
+      expl_06_0003.png: 2121003888455732349
+      expl_06_0004.png: -8159620141831358125
+      expl_06_0005.png: 2225069369822032216
+      expl_06_0006.png: -6498528525520416533
+      expl_06_0007.png: -8379743089541802121
+      expl_06_0008.png: 2927224395573561561
+      expl_06_0009.png: -8822566135640010447
+      expl_06_0010.png: 2633931012579590912
+      expl_06_0011.png: -8466689349685856012
+      expl_06_0012.png: 5414930970517537277
+      expl_06_0013.png: -7677168367338349188
+      expl_06_0014.png: 8118999153850474848
+      expl_06_0015.png: 6330991578810145825
+      expl_06_0016.png: 1709743242517363983
+      expl_06_0017.png: 6315602258848787804
+      expl_06_0018.png: -6819618585344142864
+      expl_06_0019.png: -6448270381004645291
+      expl_06_0020.png: -9003231063281218394
+      expl_06_0021.png: 2375959158993284342
+      expl_06_0022.png: 4696203180105891294
+      expl_06_0023.png: 7082692446340899102
+      expl_06_0024.png: 5467087568235766130
+      expl_06_0025.png: -3568978322065733259
+      expl_06_0026.png: -4718735977695370227
+      expl_06_0027.png: -2924667367969189252
+      expl_06_0028.png: 1968890259788003993
+      expl_06_0029.png: 2014910615202865325
+      expl_06_0030.png: 1817659360226637937
+      expl_06_0031.png: -8167300925734768783
+      expl_07_0000.png: 1758987899123981961
+      expl_07_0001.png: 6791398597997640312
+      expl_07_0002.png: -1093043709418203284
+      expl_07_0003.png: 1006409166023880801
+      expl_07_0004.png: 514116590714273566
+      expl_07_0005.png: 777579081780751522
+      expl_07_0006.png: 4549943159579267991
+      expl_07_0007.png: -9089285778376822810
+      expl_07_0008.png: 7609047365983428619
+      expl_07_0009.png: -4722344433146269015
+      expl_07_0010.png: 6560464704611108455
+      expl_07_0011.png: 3872174571273345570
+      expl_07_0012.png: 3173787270977476510
+      expl_07_0013.png: -1734090861200292225
+      expl_07_0014.png: 2407496304570375414
+      expl_07_0015.png: 4258589365978493379
+      expl_07_0016.png: -5928814550182550091
+      expl_07_0017.png: 6690056386182416836
+      expl_07_0018.png: -3292479154368771014
+      expl_07_0019.png: 3091804066792439382
+      expl_07_0020.png: -6617124075855870684
+      expl_07_0021.png: -7243646026323245458
+      expl_07_0022.png: 3339008299704318515
+      expl_07_0023.png: 6237391512813563069
+      expl_07_0024.png: 2042731431214555638
+      expl_07_0025.png: 2945655081657321507
+      expl_07_0026.png: 7570843245820344004
+      expl_07_0027.png: -4998653810296509223
+      expl_07_0028.png: -5774958013253936398
+      expl_07_0029.png: 3134162239156712724
+      expl_07_0030.png: -8529809312152148046
+      expl_07_0031.png: -7818422628796718736
+      expl_11_0000.png: 3397040561177267536
+      expl_11_0001.png: -2109663897559418978
+      expl_11_0002.png: -3635947558973121787
+      expl_11_0003.png: -5231389620150062368
+      expl_11_0004.png: 3696821471697720795
+      expl_11_0005.png: -1813390394362501209
+      expl_11_0006.png: 2904898030888424425
+      expl_11_0007.png: -5221735742679754982
+      expl_11_0008.png: -4193674653731138192
+      expl_11_0009.png: -7164770516429030486
+      expl_11_0010.png: -1867721144980678487
+      expl_11_0011.png: 2993546110261174687
+      expl_11_0012.png: -5846175535101925266
+      expl_11_0013.png: -3774910404999259537
+      expl_11_0014.png: 8791430874291371094
+      expl_11_0015.png: -5629074301087135685
+      expl_11_0016.png: -241123182990017997
+      expl_11_0017.png: -2641459003327527691
+      expl_11_0018.png: -5139987468068325299
+      expl_11_0019.png: 2992951171756500448
+      expl_11_0020.png: 3433680933111441693
+      expl_11_0021.png: -7734193220481477742
+      expl_11_0022.png: -6281053833964418694
+      expl_11_0023.png: 2583883793998737483
+      hit_0000.png: -4436899718019113111
+      hit_0001.png: 5654575740950922318
+      hit_0002.png: 3472700968684897334
+      hit_0003.png: 7618263828289721498
+      hit_0004.png: -1343764360492771785
+      hit_0005.png: 3004245649548204182
+      hit_0006.png: -1173203225626714416
+      hit_0007.png: -2989376106150329792
+      hit_0008.png: 346705482305020626
+      puff_smoke_01_0000.png: -1189840472850284649
+      puff_smoke_01_0001.png: 7664592104349638877
+      puff_smoke_01_0002.png: 4627852415040683392
+      puff_smoke_01_0003.png: 2687548860478403862
+      puff_smoke_01_0004.png: -1361375512217047858
+      puff_smoke_01_0005.png: -6194282705385052835
+      puff_smoke_01_0006.png: 2026192083429194131
+      puff_smoke_01_0007.png: 4874172973684552103
+      puff_smoke_01_0008.png: -6297510108005795977
+      puff_smoke_01_0009.png: -1747474992060063169
+      puff_smoke_01_0010.png: 234943313475962997
+      puff_smoke_01_0011.png: -8011702101925926610
+      puff_smoke_01_0012.png: 5188077616110507508
+      puff_smoke_01_0013.png: 2386673641612288226
+      puff_smoke_01_0014.png: -7891343026188041775
+      puff_smoke_01_0015.png: -5603540179643032348
+      puff_smoke_01_0016.png: -2200618390766332950
+      puff_smoke_01_0017.png: 3007186345120115953
+      puff_smoke_01_0018.png: 2802452868521280977
+      puff_smoke_01_0019.png: -1470369302280768223
+      puff_smoke_01_0020.png: -5216314293638150179
+      puff_smoke_01_0021.png: 6949684495125736152
+      puff_smoke_01_0022.png: 7390377336208042445
+      puff_smoke_01_0023.png: -1848041166350805083
+      puff_smoke_01_0024.png: 3765935313109886158
+      puff_smoke_01_0025.png: 7864822076843883943
+      puff_smoke_01_0026.png: 4971233025387767381
+      puff_smoke_01_0027.png: -7090814263757508973
+      puff_smoke_01_0028.png: 4348232766393458102
+      puff_smoke_01_0029.png: 1237562212925704895
+      puff_smoke_01_0030.png: 4644265937279842289
+      puff_smoke_01_0031.png: -8068426042159175756
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

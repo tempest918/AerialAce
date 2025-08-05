@@ -1,0 +1,1477 @@
+fileFormatVersion: 2
+guid: b70b8d85993cbe64d81017c10f281296
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bullet_purple0000.png
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 890
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2f200a144d91240800000000000000
+      internalID: 4763071459243520710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_07.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 481
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48489d838575ad40800000000000000
+      internalID: 5595007319954442319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_07_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 486
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d64795057e0e00800000000000000
+      internalID: 1012875633078227190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_10_hit.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 407
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77cb36925e31b600800000000000000
+      internalID: 482235159534094206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_01.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 739
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8e7e760a178d20800000000000000
+      internalID: 3280619468757045051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0004.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 876
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03e6f6038d9bd70800000000000000
+      internalID: 9059509827971985586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0002.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 862
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52dee25136a301710800000000000000
+      internalID: 1661892459731283237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0002.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 876
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd10a1cd92a3a2c0800000000000000
+      internalID: -4421511610705633865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0004.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 862
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4fbd35643c0abd0800000000000000
+      internalID: -2620880276307577659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_orange.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 968
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ee032a33605e4d0800000000000000
+      internalID: -3106069549167874448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor06.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 964
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe140d296225ca0800000000000000
+      internalID: -6029714539094609948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0000.png
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 876
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353eee79ac2d00c10800000000000000
+      internalID: 2017844400636224339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_03.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 651
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd5fcf626b970bb0800000000000000
+      internalID: -4969832816695091724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor03.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 934
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6a487b976716210800000000000000
+      internalID: 1324470030565680848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_blue.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 940
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476bfb92d3734c170800000000000000
+      internalID: 8197737957554108020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_01_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 833
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6aafa1a32fce40800000000000000
+      internalID: 5678796832481372680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_02_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 567
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dddd4465df9a25a0800000000000000
+      internalID: -6545243369569919528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_04_hit.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 481
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070e77411f8f5fba0800000000000000
+      internalID: -6055660409615556496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0002.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 890
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fdd56740018f60800000000000000
+      internalID: 8034703516857398930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0000.png
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 862
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5116e0419919f54a0800000000000000
+      internalID: -6602398442049347307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_06_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 743
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b4674c6893b8e70800000000000000
+      internalID: 9118445121526188906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor02.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 924
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8385ae2894fac1590800000000000000
+      internalID: -7702088532446521288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_07_hit.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 485
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f2a5c6627dbe620800000000000000
+      internalID: 2804571752994844498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_05_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 927
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9944a10b7732789c0800000000000000
+      internalID: -3925129553267506023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0004.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 890
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2971ba1c8aa6f0ac0800000000000000
+      internalID: -3886770680361183342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_09_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 928
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36bff6f5840c3b50800000000000000
+      internalID: 6574134529475196474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_04.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 570
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d589789fa0c00d0800000000000000
+      internalID: -3455374747261969095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0003.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 862
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6625408d2f7bdaf0800000000000000
+      internalID: -370562710925662612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0001.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 876
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2078c5b45282d0f90800000000000000
+      internalID: -6985883306338515198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_08.png
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 329
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351fd0c566729a260800000000000000
+      internalID: 7109256807365603667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocket_purple.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 918
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa834d8ab66c17c60800000000000000
+      internalID: 7814244994160801967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor01.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 914
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c890ae00c4efec90800000000000000
+      internalID: -7138235370828687162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_blue0001.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 862
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0097e593a4025fc0800000000000000
+      internalID: -3507736059127033845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor09.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 994
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc52c6c89640b1a0800000000000000
+      internalID: -6795854215718478669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_06.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 745
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2739890f107610800000000000000
+      internalID: 1616826392043270060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_orange0003.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 876
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d674ce5cb707693f0800000000000000
+      internalID: -894403799082580115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_2_purple.png
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 996
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee4d7c4f561f0d0800000000000000
+      internalID: -3390816942434226437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_10_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 408
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f1dd28b2483b450800000000000000
+      internalID: 6103367242431143801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_04_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 565
+        width: 110
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f61beeda936db720800000000000000
+      internalID: 2863554454893565688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_08_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 403
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe76ef37d207ee0800000000000000
+      internalID: -1265461519078396062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_03_hit.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 657
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27179718c3d67e650800000000000000
+      internalID: 6262093913519649138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_10.png
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 330
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485b7c065f0554b10800000000000000
+      internalID: 1965065827238000004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_05_hit.png
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 927
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c7121c72decd60800000000000000
+      internalID: 7912493025657866516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0001.png
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 890
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90fa91562caf8080800000000000000
+      internalID: -9182931834607308644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor05.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 954
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86ebb0a1a874180800000000000000
+      internalID: -9131177874999580448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_09_hit.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 832
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5aac3f58f6b9050800000000000000
+      internalID: 5808358765535864236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bullet_purple0003.png
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 890
+        width: 12
+        height: 12
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371b0069022332f20800000000000000
+      internalID: 3396613659504456051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor07.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 974
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa64adc15ac163aa0800000000000000
+      internalID: -6181721943040178513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_01_hit.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 833
+        width: 110
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081f61c7bad98ee90800000000000000
+      internalID: -6996168661273218688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor00.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 904
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4a5ea5b95619e0800000000000000
+      internalID: -1651033576535602078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_02_hit.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 656
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d514cb9b0ec9fb70800000000000000
+      internalID: 8933397885119370706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_06_hit.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 655
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2841d749e5f9440800000000000000
+      internalID: 4944774907722760892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor10.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1004
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f38fe82482dc290800000000000000
+      internalID: -7868588707614802043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_08_hit.png
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 403
+        width: 94
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450d634c14ce4abe0800000000000000
+      internalID: -1466787811406983084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_05.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 927
+        width: 110
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cf77dd11eb4afe0800000000000000
+      internalID: -1178608218524877705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor11.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1014
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de58f13b521d37e30800000000000000
+      internalID: 4500170412522440173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_02.png
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 569
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090677028c74ad5b0800000000000000
+      internalID: -5342879083057946480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_09.png
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 831
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d14c8382e790f980800000000000000
+      internalID: -8507132696977456688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor08.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 984
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a292d2cfb3f260110800000000000000
+      internalID: 1226719883185432874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rotor04.png
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 944
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d8eaafb1664370800000000000000
+      internalID: 8306434038565492497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aircraft_03_shadow.png
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 744
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f1101c5c63c1a00800000000000000
+      internalID: 728517462701711202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Aircraft_01.png: 3280619468757045051
+      Aircraft_01_hit.png: -6996168661273218688
+      Aircraft_01_shadow.png: 5678796832481372680
+      Aircraft_02.png: -5342879083057946480
+      Aircraft_02_hit.png: 8933397885119370706
+      Aircraft_02_shadow.png: -6545243369569919528
+      Aircraft_03.png: -4969832816695091724
+      Aircraft_03_hit.png: 6262093913519649138
+      Aircraft_03_shadow.png: 728517462701711202
+      Aircraft_04.png: -3455374747261969095
+      Aircraft_04_hit.png: -6055660409615556496
+      Aircraft_04_shadow.png: 2863554454893565688
+      Aircraft_05.png: -1178608218524877705
+      Aircraft_05_hit.png: 7912493025657866516
+      Aircraft_05_shadow.png: -3925129553267506023
+      Aircraft_06.png: 1616826392043270060
+      Aircraft_06_hit.png: 4944774907722760892
+      Aircraft_06_shadow.png: 9118445121526188906
+      Aircraft_07.png: 5595007319954442319
+      Aircraft_07_hit.png: 2804571752994844498
+      Aircraft_07_shadow.png: 1012875633078227190
+      Aircraft_08.png: 7109256807365603667
+      Aircraft_08_hit.png: -1466787811406983084
+      Aircraft_08_shadow.png: -1265461519078396062
+      Aircraft_09.png: -8507132696977456688
+      Aircraft_09_hit.png: 5808358765535864236
+      Aircraft_09_shadow.png: 6574134529475196474
+      Aircraft_10.png: 1965065827238000004
+      Aircraft_10_hit.png: 482235159534094206
+      Aircraft_10_shadow.png: 6103367242431143801
+      bullet_2_blue.png: 8197737957554108020
+      bullet_2_orange.png: -3106069549167874448
+      bullet_2_purple.png: -3390816942434226437
+      bullet_blue0000.png: -6602398442049347307
+      bullet_blue0001.png: -3507736059127033845
+      bullet_blue0002.png: 1661892459731283237
+      bullet_blue0003.png: -370562710925662612
+      bullet_blue0004.png: -2620880276307577659
+      bullet_orange0000.png: 2017844400636224339
+      bullet_orange0001.png: -6985883306338515198
+      bullet_orange0002.png: -4421511610705633865
+      bullet_orange0003.png: -894403799082580115
+      bullet_orange0004.png: 9059509827971985586
+      bullet_purple0000.png: 4763071459243520710
+      bullet_purple0001.png: -9182931834607308644
+      bullet_purple0002.png: 8034703516857398930
+      bullet_purple0003.png: 3396613659504456051
+      bullet_purple0004.png: -3886770680361183342
+      rocket_purple.png: 7814244994160801967
+      rotor00.png: -1651033576535602078
+      rotor01.png: -7138235370828687162
+      rotor02.png: -7702088532446521288
+      rotor03.png: 1324470030565680848
+      rotor04.png: 8306434038565492497
+      rotor05.png: -9131177874999580448
+      rotor06.png: -6029714539094609948
+      rotor07.png: -6181721943040178513
+      rotor08.png: 1226719883185432874
+      rotor09.png: -6795854215718478669
+      rotor10.png: -7868588707614802043
+      rotor11.png: 4500170412522440173
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
